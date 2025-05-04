@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmyatmon&label=Profile%20views&color=0e75b6&style=flat" alt="myat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmyatmon" alt="myat" /></a> </p>
+- 🌱 I’m currently learning **Frontend frameworks**
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **AI and 3D projects**
+- 👯 I’m looking to collaborate on **MERN or Frontend**
 
 - 📫 How to reach me **kmyatmon20@gmail.com**
 
